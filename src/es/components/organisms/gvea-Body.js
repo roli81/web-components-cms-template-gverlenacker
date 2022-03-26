@@ -10,7 +10,7 @@ export default class Body extends BaseBody {
 renderCSS () {
 
     this.css = `
-        body {
+        :host {
             color: red;
         }
     `;
