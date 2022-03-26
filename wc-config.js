@@ -129,6 +129,10 @@
         url: 'web-components-cms-template/src/es/components/thirdParty/'
       },
       {
+        selector: 'gvea-o-',
+        url: 'organisms/'
+      },
+      {
         selector: 'gvea-a-',
         url: 'atoms/'
       },
